@@ -19,7 +19,7 @@ Libraries used in tutorials
 
 * [Padasip Adaptive Filters Basics - Noise Cancelation, System Identification and Signal Prediction](notebooks/padasip_adaptive_filters_basics.ipynb)
 
-* [Adaptive Filters Real-time Use with Padasip Module](notebooks/adaptive_fitlers_realtime.ipynb)
+* [Adaptive Filters Real-time Use with Padasip Module](notebooks/adaptive_filters_realtime.ipynb)
 
 * [Comparison of Adaptive Filters (LMS, NLMS, RLS, GNGD) - AR Model Identification in the Prediction Setting](notebooks/AR_identification.ipynb)
 
