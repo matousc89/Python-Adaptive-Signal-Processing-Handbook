@@ -23,7 +23,4 @@ Libraries used in tutorials
 
 * [Comparison of Adaptive Filters (LMS, NLMS, RLS, GNGD) - AR Model Identification in the Prediction Setting](notebooks/AR_identification.ipynb)
 
-### Artificial Neural Networks
-* [Multi-layer Perceptron (MLP) Neural Network Implementation in Padasip - Basic Examples](notebooks/mlp_basic.ipynb)
-
-
+* [Adaptive Line Enhancer (ALE)](notebooks/ALE/ALE.ipynb)
